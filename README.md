@@ -1,13 +1,13 @@
 cn-links
 ========
 
-#计算机学习资源链接
+##计算机学习资源链接
 
-#在线技术文章与书籍
+##在线技术文章与书籍
 
 持续补充中....
 
-##oschina.net原创与翻译
+###oschina.net原创与翻译
 
 * [每个程序员都应该了解的内存知识【第一部分】](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1)
 
@@ -17,26 +17,26 @@ cn-links
 
 * 上方**原文所在**
 
-1. [第1节](http://lwn.net/Articles/250967/) : 内存知识
-2. [第2节](http://lwn.net/Articles/252125/) : CPU的高速缓存
-3. [第3节](http://lwn.net/Articles/253361/) : 虚拟内存
-4. [第4节](http://lwn.net/Articles/254445/) : NUMA系统
-5. [第5节](http://lwn.net/Articles/255364/) : 程序员可以做什么 - 高速缓存的优化
-6. [第6节](http://lwn.net/Articles/256433/) : 程序员可以做什么 - 多线程的优化
-7. [第7节](http://lwn.net/Articles/257209/) : 内存性能工具
-8. [第8节](http://lwn.net/Articles/258154/) : 未来的技术
-9. [第9节](http://lwn.net/Articles/258188/) : 附录与参考书目
+- [第1节](http://lwn.net/Articles/250967/) : 内存知识
+- [第2节](http://lwn.net/Articles/252125/) : CPU的高速缓存
+- [第3节](http://lwn.net/Articles/253361/) : 虚拟内存
+- [第4节](http://lwn.net/Articles/254445/) : NUMA系统
+- [第5节](http://lwn.net/Articles/255364/) : 程序员可以做什么 - 高速缓存的优化
+- [第6节](http://lwn.net/Articles/256433/) : 程序员可以做什么 - 多线程的优化
+- [第7节](http://lwn.net/Articles/257209/) : 内存性能工具
+- [第8节](http://lwn.net/Articles/258154/) : 未来的技术
+- [第9节](http://lwn.net/Articles/258188/) : 附录与参考书目
 
 
-##markdown
+###markdown
 
-* [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
+* [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)   
 	[托管gitcafe](https://gitcafe.com/riku/Markdown-Syntax-CN/)
 
 * 
 
 
-##算法
+###算法
 
 * [经典排序算法-集锦](http://www.cnblogs.com/kkun/archive/2011/11/23/2260312.html)
 
@@ -45,11 +45,10 @@ cn-links
 * 
 
 
-##Redis
+###Redis
 
 * [Redis核心解读系列](http://www.wzxue.com/redis%E6%A0%B8%E5%BF%83%E8%A7%A3%E8%AF%BB%E7%B3%BB%E5%88%97/)
 
-Redis核心解读系列主要有以下内容:
 
 1. [解读Redis ae事件驱动库](http://www.wzxue.com/%e8%a7%a3%e8%af%bbredis-ae%e4%ba%8b%e4%bb%b6%e9%a9%b1%e5%8a%a8%e5%ba%93/)
 2. [读Redis dict核心数据结构](http://www.wzxue.com/%e8%a7%a3%e8%af%bbredis-dict%e6%a0%b8%e5%bf%83%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84/)
@@ -66,12 +65,13 @@ Redis核心解读系列主要有以下内容:
 13. [Redis集群的讨论及WheatRedis说明](http://www.wzxue.com/wheatredis-spec/)
 
 
+
 * [Redis 设计与实现](http://www.redisbook.com/en/latest/)
 
 * [带有详细注释的 Redis 2.6 源代码](https://github.com/huangz1990/annotated_redis_source)
 
 
-##Haskell
+###Haskell
 
 * [Real World Haskell 中文版](https://rwh.readthedocs.org/en/latest/)
 
@@ -82,7 +82,7 @@ Redis核心解读系列主要有以下内容:
 * [Haskell Type Checker In Your Browser](http://haskellonline.org/)
 
 
-##python
+###python
 
 * [shell's home - python入门指引](http://shell909090.com/blog/2012/11/python%E5%85%A5%E9%97%A8%E6%8C%87%E5%BC%95/)
 
@@ -97,7 +97,7 @@ Redis核心解读系列主要有以下内容:
 * 
 
 
-##git
+###git
 
 * [progit - github](https://github.com/progit/progit)
 
@@ -108,7 +108,7 @@ Redis核心解读系列主要有以下内容:
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/)
 
 
-##vim
+###vim
 
 * [Vim 作者的个人网站](http://www.moolenaar.net/)
 
