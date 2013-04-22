@@ -15,9 +15,9 @@ cn-links
 
 * [每个程序员都应该了解的“虚拟内存”知识](http://www.oschina.net/translate/what-every-programmer-should-know-about-virtual-memory-part3)
 
-* 上方**原文所在**
+>上方**原文所在**
 
-- [第1节](http://lwn.net/Articles/250967/) : 内存知识
+>- [第1节](http://lwn.net/Articles/250967/) : 内存知识
 - [第2节](http://lwn.net/Articles/252125/) : CPU的高速缓存
 - [第3节](http://lwn.net/Articles/253361/) : 虚拟内存
 - [第4节](http://lwn.net/Articles/254445/) : NUMA系统
@@ -49,8 +49,9 @@ cn-links
 
 * [Redis核心解读系列](http://www.wzxue.com/redis%E6%A0%B8%E5%BF%83%E8%A7%A3%E8%AF%BB%E7%B3%BB%E5%88%97/)
 
+>**Redis核心解读系列包含内容**
 
-1. [解读Redis ae事件驱动库](http://www.wzxue.com/%e8%a7%a3%e8%af%bbredis-ae%e4%ba%8b%e4%bb%b6%e9%a9%b1%e5%8a%a8%e5%ba%93/)
+>1. [解读Redis ae事件驱动库](http://www.wzxue.com/%e8%a7%a3%e8%af%bbredis-ae%e4%ba%8b%e4%bb%b6%e9%a9%b1%e5%8a%a8%e5%ba%93/)
 2. [读Redis dict核心数据结构](http://www.wzxue.com/%e8%a7%a3%e8%af%bbredis-dict%e6%a0%b8%e5%bf%83%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84/)
 3. [解读Redis中ziplist、zipmap、intset实现细节](http://www.wzxue.com/%e8%a7%a3%e8%af%bbredis%e4%b8%adziplist%e5%ae%9e%e7%8e%b0%e7%bb%86%e8%8a%82/)
 4. [解读Redis运行核心循环过程](http://www.wzxue.com/%e8%a7%a3%e8%af%bbredis%e8%bf%90%e8%a1%8c%e6%a0%b8%e5%bf%83%e5%be%aa%e7%8e%af%e8%bf%87%e7%a8%8b/)
