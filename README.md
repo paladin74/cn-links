@@ -7,6 +7,11 @@ cn-links
 
 持续补充中....
 
+* [algorithm.md](algorithm.md)
+* [tools.md](tools.md)
+* 
+
+
 ###oschina.net原创与翻译
 
 * [每个程序员都应该了解的内存知识【第一部分】](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1)
@@ -26,14 +31,6 @@ cn-links
 - [第7节](http://lwn.net/Articles/257209/) : 内存性能工具
 - [第8节](http://lwn.net/Articles/258154/) : 未来的技术
 - [第9节](http://lwn.net/Articles/258188/) : 附录与参考书目
-
-
-###markdown
-
-* [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)   
-	[托管gitcafe](https://gitcafe.com/riku/Markdown-Syntax-CN/)
-
-* 
 
 
 
@@ -92,34 +89,6 @@ cn-links
 * [The Python Standard Library 2.7](http://docs.python.org/2/library/)
 
 * [The Python Standard Library 3.3](http://docs.python.org/3.3/library/)
-
-* 
-
-
-###git
-
-* [progit - github](https://github.com/progit/progit)
-
-* [progit - http://progit.org ](http://progit.org )
-
-* [gitmagic - 简体中文](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
-
-* [Git Community Book 中文版](http://gitbook.liuhui998.com/)
-
-
-###vim
-
-* [Vim 作者的个人网站](http://www.moolenaar.net/)
-
-* [vim.org](http://www.vim.org/)
-
-* [Open Vim](http://www.openvim.com/)
-
-* [一个vim爱好者的教程指引](http://wiki.hotoo.me/Vim.html)
-
-* [Vimer的程序世界](http://www.vimer.cn/)
-
-* [Vim 编辑器 [Python俱乐部]](http://www.pythonclub.org/linux/vim/start)
 
 * 
 
