@@ -10,6 +10,7 @@ cn-links
 * [algorithm.md](algorithm.md)
 * [tools.md](tools.md)
 * [language.md](language.md)
+* 
 
 
 ### oschina.net原创与翻译
@@ -31,9 +32,6 @@ cn-links
 - [第7节](http://lwn.net/Articles/257209/) : 内存性能工具
 - [第8节](http://lwn.net/Articles/258154/) : 未来的技术
 - [第9节](http://lwn.net/Articles/258188/) : 附录与参考书目
-
-
-
 
 
 ### Redis
