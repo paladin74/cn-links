@@ -9,10 +9,10 @@ cn-links
 
 * [algorithm.md](algorithm.md)
 * [tools.md](tools.md)
-* 
+* [language.md](language.md)
 
 
-###oschina.net原创与翻译
+### oschina.net原创与翻译
 
 * [每个程序员都应该了解的内存知识【第一部分】](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1)
 
@@ -36,7 +36,7 @@ cn-links
 
 
 
-###Redis
+### Redis
 
 * [redis中文官方网站](http://redis.cn/)
 
@@ -65,32 +65,6 @@ cn-links
 * [Redis 设计与实现](http://www.redisbook.com/en/latest/)
 
 * [带有详细注释的 Redis 2.6 源代码](https://github.com/huangz1990/annotated_redis_source)
-
-
-###Haskell
-
-* [Real World Haskell 中文版](https://rwh.readthedocs.org/en/latest/)
-
-* [Haskell趣學指南](http://learnyouahaskell-zh-tw.csie.org/zh-cn/chapters.html)
-
-* [Haskell 中文](http://www.haskellcn.org/study.html)
-
-* [Haskell Type Checker In Your Browser](http://haskellonline.org/)
-
-
-###python
-
-* [shell's home - python入门指引](http://shell909090.com/blog/2012/11/python%E5%85%A5%E9%97%A8%E6%8C%87%E5%BC%95/)
-
-* [Python 网络编程](http://www.pythonclub.org/python-network-application/start)
-
-* [Python Documentation](http://www.python.org/doc/)
-
-* [The Python Standard Library 2.7](http://docs.python.org/2/library/)
-
-* [The Python Standard Library 3.3](http://docs.python.org/3.3/library/)
-
-* 
 
 
 ### jemalloc
