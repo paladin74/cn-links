@@ -1,3 +1,22 @@
+## develop tools
+
+### Gentoo Linux
+
+* [Gentoo文档资源](http://www.gentoo.org/doc/zh_cn/index.xml)
+
+* [Gentoo手册](http://www.gentoo.org/doc/zh_cn/handbook/)
+
+
+### LFS
+
+* [Linux From Scratch](http://www.linuxfromscratch.org/)
+
+### Archlinux
+
+* [Archlinux](https://www.archlinux.org/)
+
+* [Archlinux Wiki](https://wiki.archlinux.org/index.php/Main_Page)
+
 ###markdown
 
 * [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)   
@@ -35,3 +54,11 @@
 
 * 
 
+
+## Online tools
+
+* [Command line reference: Web, Database and OS scripting.](http://ss64.com/index.html)
+
+* [The Linux Documentation Project](http://www.tldp.org/)
+
+* [chinaunix man 文档中心](http://man.chinaunix.net/)
