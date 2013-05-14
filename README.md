@@ -7,6 +7,7 @@ cn-links
 
 * [algorithm.md](algorithm.md)
 * [cloud.md](cloud.md)
+* [data.md](data.md)
 * [database.md](database.md)
 * [develop.md](develop.md)
 * [language.md](language.md)
