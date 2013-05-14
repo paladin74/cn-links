@@ -1,5 +1,19 @@
 ## develop tools
 
+### Basic
+
+* [Linux wiki](http://linux-wiki.cn/wiki/%E9%A6%96%E9%A1%B5)
+
+* [crunchbang](http://crunchbang.org/)
+
+* [openvms.org](http://www.openvms.org/)
+
+* [Bridge Linux](http://millertechnologies.net/)
+> [download](http://sourceforge.net/projects/bridgelinux/files/)
+
+* [tint2](https://code.google.com/p/tint2/wiki/Configure)
+
+
 ### Gentoo Linux
 
 * [Gentoo文档资源](http://www.gentoo.org/doc/zh_cn/index.xml)
@@ -19,10 +33,10 @@
 
 ###markdown
 
-* [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)   
+* [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
 	[托管gitcafe](https://gitcafe.com/riku/Markdown-Syntax-CN/)
 
-* 
+* [阳志平 - Markdown写作浅谈](http://www.yangzhiping.com/tech/r-markdown-knitr.html)
 
 
 ###git
@@ -35,7 +49,7 @@
 
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/)
 
-* 
+*
 
 
 ###vim
@@ -52,7 +66,7 @@
 
 * [Vim 编辑器 [Python俱乐部]](http://www.pythonclub.org/linux/vim/start)
 
-* 
+*
 
 
 ## Online tools
