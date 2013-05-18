@@ -8,6 +8,9 @@
 
 * [Let Over Lambda -- 50 Years of Lisp -by Doug Hoyte](http://letoverlambda.com/textmode.cl/guest/toc)
 
+* [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
+
+* [SICP 解题集](http://sicp.readthedocs.org/en/latest/)
 
 ### C
 

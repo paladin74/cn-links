@@ -12,3 +12,10 @@
 ### Devops
 
 * [Devops](http://devo.ps/)
+
+### Parallel Programming
+
+* [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+>cn [《深入理解并行编程》中文版](http://ifeve.com/perfbook/)
+
+

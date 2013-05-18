@@ -37,6 +37,14 @@ cn-links
 - [第9节](http://lwn.net/Articles/258188/) : 附录与参考书目
 
 
+#### somedays
+
+* [Python状况：为什么PyPy是Python的未来？](http://www.oschina.net/translate/why_pypy_is_the_future_of_python)
+
+* [翻译:introduce to tornado-Asynchronous Web Services](http://my.oschina.net/f1eming/blog/131382)
+
+
+
 ### jemalloc
 
 * [jemalloc index](http://canonware.com/jemalloc/index.html)
