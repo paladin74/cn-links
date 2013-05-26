@@ -31,7 +31,7 @@
 
 * [Archlinux Wiki](https://wiki.archlinux.org/index.php/Main_Page)
 
-###markdown
+### markdown
 
 * [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
 	[托管gitcafe](https://gitcafe.com/riku/Markdown-Syntax-CN/)
@@ -39,7 +39,7 @@
 * [阳志平 - Markdown写作浅谈](http://www.yangzhiping.com/tech/r-markdown-knitr.html)
 
 
-###git
+### git
 
 * [progit - github](https://github.com/progit/progit)
 
@@ -52,7 +52,7 @@
 *
 
 
-###vim
+### vim
 
 * [Vim 作者的个人网站](http://www.moolenaar.net/)
 
@@ -69,6 +69,13 @@
 *
 
 
+### Sphinx
+
+* [Sphinx documentation - contents](http://sphinx-doc.org/contents.html)
+
+* [Sphinx documentation - index](http://sphinx-doc.org/index.html)
+
+
 ## Online tools
 
 * [Command line reference: Web, Database and OS scripting.](http://ss64.com/index.html)
@@ -76,3 +83,5 @@
 * [The Linux Documentation Project](http://www.tldp.org/)
 
 * [chinaunix man 文档中心](http://man.chinaunix.net/)
+
+* [The LATEX Font Catalogue](http://www.tug.dk/FontCatalogue/)

@@ -1,5 +1,8 @@
 ## 公开课
 
+* [Khan Academy](https://www.khanacademy.org/)
+
+
 ### Machine Learning
 
 * [http://coursegraph.com/ - Machine Learning](http://coursegraph.com/machine-learning-coursera-ml-stanford-university)
@@ -21,12 +24,12 @@
 * Advanced Operating Systems Implementation [http://www.scs.stanford.edu/05au-cs240c/](http://www.scs.stanford.edu/05au-cs240c/)
 
 
-### [MIT] Operating System Engineering 
+### [MIT] Operating System Engineering
 
 * [Operating System Engineering](http://pdos.csail.mit.edu/6.828/2012/index.html)
 
 
-### [princeton] Algorithms, 4th Edition
+### [Princeton] Algorithms, 4th Edition
 
 * [http://algs4.cs.princeton.edu/home/](http://algs4.cs.princeton.edu/home/)
 

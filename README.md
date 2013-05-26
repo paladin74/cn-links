@@ -6,14 +6,55 @@ cn-links
 持续补充中....
 
 * [algorithm.md](algorithm.md)
+	* 算法
+	* others
+* [basis.md](basis.md)
+	* math
 * [cloud.md](cloud.md)
+	* Redis
+	* HBase
 * [data.md](data.md)
+	* R
+	* python
 * [database.md](database.md)
+	* MariaDB
+	* PostgreSQL
+	* sqlite
 * [develop.md](develop.md)
+	* unittest
+	* Devops
+	* Parallel Programming
 * [language.md](language.md)
+	* Basic
+	* Lisp
+	* C
+	* Haskell
+	* Python
+	* Erlang
 * [open_class.md](open_class.md)
+	* Khan
+	* Machine Learing
+	* [CMU]CSAPP
+	* [Stanford] Advanced Operating Implementation
+	* [MIT] Operating System Engineering
+	* [Princeton] Algorithms, 4th Edition
 * [server.md](server.md)
+	* Basic
+	* CentOS
+	* Nginx
+	* Linode
+	* FreeBSD
 * [tools.md](tools.md)
+	* develop tools
+		* Basic
+		* Gentoo Linux
+		* LFS
+		* Archlinux
+		* markdown
+		* git
+		* vim
+		* Sphinx
+	* Online tools
 
 
 ### oschina.net原创与翻译
