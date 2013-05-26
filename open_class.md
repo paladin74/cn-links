@@ -2,6 +2,12 @@
 
 * [Khan Academy](https://www.khanacademy.org/)
 
+* [网易公开课](http://open.163.com/)
+
+
+### Music
+
+* [ 密苏里州立大学公开课：世界音乐综述](http://v.163.com/special/opencourse/music.html)
 
 ### Machine Learning
 
@@ -34,4 +40,4 @@
 * [http://algs4.cs.princeton.edu/home/](http://algs4.cs.princeton.edu/home/)
 
 
-###
+

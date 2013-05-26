@@ -33,6 +33,8 @@ cn-links
 	* Erlang
 * [open_class.md](open_class.md)
 	* Khan
+	* 网易公开课
+	* Music
 	* Machine Learing
 	* [CMU]CSAPP
 	* [Stanford] Advanced Operating Implementation
