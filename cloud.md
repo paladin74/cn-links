@@ -7,6 +7,8 @@
 
 * [redis网络资料汇总](http://redis.cn/article.html)
 
+* [江南白衣 - redis](https://github.com/springside/springside4/wiki/redis)
+
 * [Redis核心解读系列](http://www.wzxue.com/redis%E6%A0%B8%E5%BF%83%E8%A7%A3%E8%AF%BB%E7%B3%BB%E5%88%97/)
 
 >**Redis核心解读系列包含内容**
